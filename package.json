@@ -2,7 +2,7 @@
   "name": "unyocorp",
   "displayName": "UnyoDusk",
   "description": "UnyoDusk is a dark, elegant VSCode theme inspired by the tranquility and subtle beauty of dusk. With a harmonious blend of warm and cool tones, this theme offers a perfect balance for both daytime and nighttime coding sessions. Highlighting with soft oranges and purples, UnyoDusk ensures a comfortable and immersive coding experience, reducing eye strain while maintaining visual appeal. Ideal for developers who seek both functionality and aesthetics, UnyoDusk transforms your workspace into a serene and productive environment.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "UnyoDusk",
   "engines": {
     "vscode": "^1.80.0"
