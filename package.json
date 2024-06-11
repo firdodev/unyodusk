@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/firdodev/unyodusk"
   },
+  "icon": "images/logo.jpg",
   "contributes": {
     "themes": [
       {
