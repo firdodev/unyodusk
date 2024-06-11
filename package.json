@@ -5,7 +5,7 @@
   "version": "1.0.2",
   "publisher": "UnyoDusk",
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
@@ -15,6 +15,19 @@
     "url": "https://github.com/firdodev/unyodusk"
   },
   "icon": "images/logo.jpg",
+  "tags": [
+    "dark theme",
+    "VSCode theme",
+    "developer tools",
+    "productivity",
+    "coding",
+    "dusk",
+    "elegant",
+    "warm colors",
+    "cool colors",
+    "gruvbox",
+    "unyo"
+  ],
   "contributes": {
     "themes": [
       {
