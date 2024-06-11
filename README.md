@@ -1,6 +1,6 @@
 # UnyoDusk VSCode Theme
 
-![UnyoDusk Logo](images/logo.jpg)
+![UnyoDusk Logo](https://raw.githubusercontent.com/firdodev/unyodusk/main/images/logo.jpg)
 
 ## Description
 
@@ -24,7 +24,7 @@ UnyoDusk is a dark, elegant VSCode theme inspired by the tranquility and subtle 
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](https://raw.githubusercontent.com/firdodev/unyodusk/main/images/screenshot1.png)
 
 ## Acknowledgements
 
